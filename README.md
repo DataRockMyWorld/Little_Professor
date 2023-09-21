@@ -1,31 +1,31 @@
-#Little Professor - Math Quiz Game
+# Little Professor - Math Quiz Game
 
 Little Professor is a Python program that implements a math quiz game with three different levels of difficulty. It prompts the user for their chosen level (1, 2, or 3) and then generates ten addition problems based on the selected level. The user has three attempts to answer each problem correctly. If they fail to do so, the correct answer is provided.
 
-Getting Started
+## Getting Started
 
-Prerequisites
+### Prerequisites
 Python 3.x installed on your computer.
 Installation
-Clone the repository to your local machine or download the ZIP file.
+### Clone the repository to your local machine or download the ZIP file.
 ```
 shell
 Copy code
 git clone https://github.com/your-username/little-professor.git
 ```
-Navigate to the project directory.
+### Navigate to the project directory.
 ```
 shell
 Copy code
 cd little-professor
 ```
-Run the program.
+### Run the program.
 ```
 shell
 Copy code
 python little_professor.py
 ```
-Usage
+### Usage
 
 The program will prompt you to select a difficulty level by entering 1, 2, or 3.
 You will then be presented with ten math problems. Each problem is in the format X + Y =, where X and Y are non-negative integers.
@@ -51,11 +51,11 @@ Enter Level (1, 2 or 3): 2
 
 Score: 10/10
 ```
-Credits
+### Credits
 
 This program was inspired by a task from Harvard's CS50 Python course and was implemented by Jewel Bansah.
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
